@@ -1,0 +1,9 @@
+Since i dont have a laptop nor computer i am using my phone to creatr website. I was using trebedit buy now I have switched to termux.
+I managed to install termux in my phone, then later installed Linux ubuntu as the OS of choice.
+I updated and upgraded
+I said proot-distro login ubuntu so u can get admin privileges.
+I installed code server the later said apt install wget
+this is the command I put later wget https://github.com/coder/code-server/releases/download/v4.16.1/code-server-4.16.1-linux-arm64.tar.gz
+this is how I extracted the command tar -xvf ./code-server-4.16.1-linux-arm64.tar.gz
+last command I used to setup vs code in my phone ./code-server
+I then later used pkg install python and the latest version was installed.
